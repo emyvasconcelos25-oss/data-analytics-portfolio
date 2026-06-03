@@ -16,8 +16,7 @@ Coleção de dashboards analíticos desenvolvidos em Power BI para resolução d
     * O bairro de **Itaquera** é o principal polo de receita (R$ 0,66M) e de concentração de clientes (1,8K).
     * Existe uma tendência de crescimento clara no faturamento mensal ao longo do ano.
 
-![Print do Dashboard 1](<img width="1545" height="860" alt="Captura de tela 2026-06-02 234527" src="https://github.com/user-attachments/assets/e7bb75b1-daeb-4ba5-bf79-be9c94b4449e" />
-)
+![Print do Dashboard 1](Gatito.png)
 
 ---
 
@@ -32,8 +31,7 @@ Coleção de dashboards analíticos desenvolvidos em Power BI para resolução d
     * **Tendência de Crescimento:** O faturamento total apresenta uma curva acentuada de crescimento ao longo de 2017, consolidando-se em patamares elevados no primeiro semestre de 2018.
     * **Análise de Frete:** O custo total com frete atinge seus maiores picos entre os meses de março e agosto (chegando a 190K), apresentando uma queda brusca e sazonal em setembro.
 
-![Print do Dashboard E-Commerce Brasil](<img width="1535" height="858" alt="E-commerce" src="https://github.com/user-attachments/assets/81e25243-aded-458d-ad49-8df9bd48229c" />
-)
+![Print do Dashboard E-Commerce Brasil](E-commerce.png)
 
 ---
 
@@ -48,8 +46,7 @@ Coleção de dashboards analíticos desenvolvidos em Power BI para resolução d
     * **Desempenho Estável:** O gráfico de linha temporal aponta uma operação madura e com faturamento muito estável, oscilando de forma controlada entre 5,9M e 6,7M mês a mês, mantendo um acompanhamento linear em relação ao período anterior.
     * **Performance da Equipe:** A força de vendas exibe um resultado extremamente equilibrado. Os três principais vendedores apresentam resultados de margem quase idênticos: David Neves (8,5M), Ana Duarte (8,4M) e Allan Spadini (8,4M).
 
-![Print do Dashboard DAX Livraria](<img width="1541" height="861" alt="Dax_livraria" src="https://github.com/user-attachments/assets/f53862ba-ce88-4c64-a08e-f636e6702b90" />
-)
+![Print do Dashboard DAX Livraria](Dax_livraria.png)
 
 ---
 
@@ -65,7 +62,5 @@ Coleção de dashboards analíticos desenvolvidos em Power BI para resolução d
     * **Gestão de Metas e Evolução:** A marca superou com folga a meta intermediária de R$ 396,14 K, caminhando de forma consistente em uma curva de crescimento anual acelerada desde 2022.
     * **Dispersão e Mix de Produtos:** Através do gráfico de dispersão, identifica-se a concentração de vendas em categorias de *skincare*, *perfumes*, *maquiagem* e *cabelos*, mapeando com clareza quais produtos geram maior volume financeiro em relação ao seu preço de venda.
 
-![Print 1 do Dashboard Opuline](<img width="1532" height="863" alt="Opuline_Vendas" src="https://github.com/user-attachments/assets/4c3e0b4d-2f81-415d-9330-ab5287438b8c" />
-)
-![Print 2 do Dashboard Opuline](<img width="1537" height="862" alt="Opuline_Produtos" src="https://github.com/user-attachments/assets/9845c4c5-9b90-4eca-8fc0-0d8737656739" />
-)
+![Print 1 do Dashboard Opuline](Opuline_Vendas.png)
+![Print 2 do Dashboard Opuline](Opuline_Produtos.png)
